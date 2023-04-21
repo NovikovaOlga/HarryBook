@@ -2,7 +2,10 @@
 
 ## 📓 Task Scheduler. 
 
-## 🚀 Capabilities
+## Description
+ <p> </p>
+
+## Capabilities
 <p>A simple task scheduler that allows you to create tasks, set the current status and period </p>
 
 <p>
@@ -13,8 +16,11 @@
 
  <p>
 
-## 🛠️ Main technologies
+## Technologies
  - **MVC**
  - **MVVM**
  - **Viper**
 
+## Installing and launching 
+- **Download the project archive** 
+- **Project startup file: .xcodeproj** 
