@@ -1,4 +1,4 @@
-# HarryBook
+# HarryBook (MVC, MVVM, Viper)
 
 ## 📓 Task Scheduler. 
 
